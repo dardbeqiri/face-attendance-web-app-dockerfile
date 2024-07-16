@@ -35,17 +35,21 @@ Hey there! 👋
 
 I hope you find my projects on GitHub and Docker helpful. Maintaining and developing these projects requires time and effort. If you enjoy using them and would like to support my work, consider making a donation. Your contribution will help me keep the projects alive and continually improve them.
 
-Donate via PayPal⁠
+**[Donate via PayPal](https://paypal.me/dardbeqiri)**
 
 Thank you for your support! 🙏
 
-Follow Me:
+---
 
-GitHub: github.com/dardbeqiri⁠
-Docker Hub: hub.docker.com/u/dardbeqiri
+**Follow Me:**
+- GitHub: [github.com/dardbeqiri](https://github.com/dardbeqiri)
+- Docker Hub: [hub.docker.com/u/dardbeqiri](https://hub.docker.com/u/dardbeqiri)
+
+---
+
 Feel free to reach out if you have any questions or suggestions.
 
-Best, Dardan Beqiri
+Best,
 
 ## License
 
